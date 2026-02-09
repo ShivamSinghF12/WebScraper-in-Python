@@ -1,0 +1,4 @@
+URL,Title,Status Code,Word Count,Headings,Links,Images,Load Time (s)
+https://en.wikipedia.org/wiki/Web_scraping,Web scraping - Wikipedia,200,4379,20,460,10,0.72
+https://en.wikipedia.org/wiki/Python_(programming_language),Python (programming language) - Wikipedia,200,12832,30,2151,30,0.86
+https://en.wikipedia.org/wiki/Napoleon,Napoleon - Wikipedia,200,25389,55,4659,124,0.86
